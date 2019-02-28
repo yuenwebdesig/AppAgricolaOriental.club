@@ -1,0 +1,321 @@
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.AppAO.agricolaoriental.club" resolutions="1x" timestamp="1551315265728">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_b-p_g_-maestra.css" crc="99225001" ref="belleza:la-banquetera:hogar:alimentos:vida-sana:educacion:autos:nosotros:restaurantes:salud"/>
+    <file name="master_a-p_g_-maestra.css" crc="3770473017" ref="index"/>
+    <file name="belleza.css" crc="162900919" ref="belleza"/>
+    <file name="la-banquetera.css" crc="140868415" ref="la-banquetera"/>
+    <file name="hogar.css" crc="162900919" ref="hogar"/>
+    <file name="alimentos.css" crc="162900919" ref="alimentos"/>
+    <file name="index.css" crc="4080771537" ref="index"/>
+    <file name="vida-sana.css" crc="162900919" ref="vida-sana"/>
+    <file name="educacion.css" crc="92547705" ref="educacion"/>
+    <file name="autos.css" crc="162900919" ref="autos"/>
+    <file name="nosotros.css" crc="402639953" ref="nosotros"/>
+    <file name="restaurantes.css" crc="348335761" ref="restaurantes"/>
+    <file name="salud.css" crc="162900919" ref="salud"/>
+  </folder>
+  <folder name="assets">
+    <folder name="logo-mov--tel">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1551202502000"/>
+      </folder>
+      <folder name="images">
+        <file name="b1.png" crc="3862663061" mt="1551202502000"/>
+        <file name="b1c.png" crc="296060032" mt="1551202502000"/>
+        <file name="com.png" crc="3771889456" mt="1551202502000"/>
+        <file name="d1.png" crc="4131634517" mt="1551202502000"/>
+        <file name="d12.png" crc="405117964" mt="1551202502000"/>
+        <file name="e1.png" crc="86926934" mt="1551202502000"/>
+        <file name="e2.png" crc="372614388" mt="1551202502000"/>
+        <file name="e3.png" crc="4261071619" mt="1551202502000"/>
+        <file name="g1.png" crc="247369780" mt="1551202502000"/>
+        <file name="i1.png" crc="4240201188" mt="1551202502000"/>
+        <file name="i12.png" crc="277284161" mt="1551202502000"/>
+        <file name="i13.png" crc="4144389276" mt="1551202502000"/>
+        <file name="log1.png" crc="103288682" mt="1551202502000"/>
+        <file name="log2.png" crc="4239394795" mt="1551202502000"/>
+        <file name="log3.png" crc="345526612" mt="1551202502000"/>
+        <file name="log4.png" crc="3999868400" mt="1551202502000"/>
+        <file name="log5.png" crc="3818539665" mt="1551202502000"/>
+        <file name="logofinal.png" crc="27655856" mt="1551202502000"/>
+        <file name="logofinal2.png" crc="27655856" mt="1551202502000"/>
+        <file name="logo_madre.png" crc="3965293115" mt="1551202502000"/>
+        <file name="n1.png" crc="3969980682" mt="1551202502000"/>
+        <file name="n12.png" crc="4138090722" mt="1551202502000"/>
+        <file name="n2.png" crc="428498998" mt="1551202502000"/>
+        <file name="s1.png" crc="465193784" mt="1551202502000"/>
+        <file name="times-square-plainpaul.jpg" crc="412960323" mt="1551202502000"/>
+        <file name="times-square.jpg" crc="279765956" mt="1551202502000"/>
+        <file name="u.png" crc="4234843148" mt="1551202502000"/>
+        <file name="w1.png" crc="443442808" mt="1551202502000"/>
+        <file name="ye.png" crc="18311122" mt="1551202502000"/>
+        <file name="yuenwebdesign_nuevo_trasp.png" crc="3893580006" mt="1551202502000"/>
+      </folder>
+      <file name="transparent.png" crc="197992831" mt="1551202502000"/>
+      <file name="logo mov  tel_edge.js" crc="4115103772" mt="1551202502000"/>
+      <file name="logo mov  tel.html" crc="491647533" mt="1551202502000"/>
+    </folder>
+    <folder name="nosotros1">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1551135172000"/>
+      </folder>
+      <folder name="images">
+        <file name="ALIMENTOS.png" crc="412738421" mt="1551135172000"/>
+        <file name="AUTOS1.png" crc="39601435" mt="1551135172000"/>
+        <file name="BELLEZA1.png" crc="3884993634" mt="1551135172000"/>
+        <file name="boton rojo3.png" crc="315152262" mt="1551135172000"/>
+        <file name="BOTON SALUD1.png" crc="88258235" mt="1551135172000"/>
+        <file name="BOTON SALUD12.png" crc="88258235" mt="1551135172000"/>
+        <file name="BOTON SALUD2.png" crc="3787899101" mt="1551135172000"/>
+        <file name="EDUCACION1.png" crc="3918333162" mt="1551135172000"/>
+        <file name="HOGAR1.png" crc="4167313847" mt="1551135172000"/>
+        <file name="LABAN1.png" crc="4024466809" mt="1551135172000"/>
+        <file name="NOSOTROS1.png" crc="3852880792" mt="1551135172000"/>
+        <file name="Poster.png" crc="224736992" mt="1551135172000"/>
+        <file name="RESTAURANTES1.png" crc="3859527969" mt="1551135172000"/>
+        <file name="VIDA SANA 2.png" crc="3927761529" mt="1551135172000"/>
+      </folder>
+      <file name="transparent.png" crc="353099104" mt="1551135172000"/>
+      <file name="NOSOTROS1_edge.js" crc="4212941519" mt="1551135172000"/>
+      <file name="NOSOTROS1.html" crc="3952029202" mt="1551135172000"/>
+    </folder>
+    <folder name="healt1">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1551134679000"/>
+      </folder>
+      <folder name="images">
+        <file name="ALIMENTOS.png" crc="412738421" mt="1551134679000"/>
+        <file name="AUTOS1.png" crc="39601435" mt="1551134679000"/>
+        <file name="BELLEZA1.png" crc="3884993634" mt="1551134679000"/>
+        <file name="boton rojo3.png" crc="315152262" mt="1551134679000"/>
+        <file name="BOTON SALUD1.png" crc="88258235" mt="1551134679000"/>
+        <file name="BOTON SALUD12.png" crc="88258235" mt="1551134679000"/>
+        <file name="BOTON SALUD2.png" crc="3787899101" mt="1551134679000"/>
+        <file name="EDUCACION1.png" crc="3918333162" mt="1551134679000"/>
+        <file name="HOGAR1.png" crc="4167313847" mt="1551134679000"/>
+        <file name="LABAN1.png" crc="4024466809" mt="1551134679000"/>
+        <file name="Poster.png" crc="224736992" mt="1551134679000"/>
+        <file name="RESTAURANTES1.png" crc="3859527969" mt="1551134679000"/>
+        <file name="VIDA SANA 2.png" crc="3927761529" mt="1551134679000"/>
+      </folder>
+      <file name="transparent.png" crc="353099104" mt="1551134679000"/>
+      <file name="HEALT1_edge.js" crc="524151148" mt="1551134679000"/>
+      <file name="HEALT1.html" crc="475053153" mt="1551134679000"/>
+    </folder>
+    <folder name="vida-sana-1">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1551134409000"/>
+      </folder>
+      <folder name="images">
+        <file name="ALIMENTOS.png" crc="412738421" mt="1551134409000"/>
+        <file name="AUTOS1.png" crc="39601435" mt="1551134409000"/>
+        <file name="BELLEZA1.png" crc="3884993634" mt="1551134409000"/>
+        <file name="boton rojo3.png" crc="315152262" mt="1551134409000"/>
+        <file name="BOTON SALUD1.png" crc="88258235" mt="1551134409000"/>
+        <file name="BOTON SALUD2.png" crc="3787899101" mt="1551134409000"/>
+        <file name="EDUCACION1.png" crc="3918333162" mt="1551134409000"/>
+        <file name="HOGAR1.png" crc="4167313847" mt="1551134409000"/>
+        <file name="LABAN1.png" crc="4024466809" mt="1551134409000"/>
+        <file name="Poster.png" crc="224736992" mt="1551134409000"/>
+        <file name="RESTAURANTES1.png" crc="3859527969" mt="1551134409000"/>
+        <file name="VIDA SANA 2.png" crc="3927761529" mt="1551134409000"/>
+      </folder>
+      <file name="transparent.png" crc="353099104" mt="1551134409000"/>
+      <file name="VIDA SANA 1_edge.js" crc="4010687641" mt="1551134409000"/>
+      <file name="VIDA SANA 1.html" crc="4279738456" mt="1551134409000"/>
+    </folder>
+    <folder name="hogar-1">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1551134006000"/>
+      </folder>
+      <folder name="images">
+        <file name="ALIMENTOS.png" crc="412738421" mt="1551134006000"/>
+        <file name="AUTOS1.png" crc="39601435" mt="1551134006000"/>
+        <file name="BELLEZA1.png" crc="3884993634" mt="1551134006000"/>
+        <file name="boton rojo3.png" crc="315152262" mt="1551134006000"/>
+        <file name="BOTON SALUD2.png" crc="3787899101" mt="1551134006000"/>
+        <file name="EDUCACION1.png" crc="3918333162" mt="1551134006000"/>
+        <file name="HOGAR1.png" crc="4167313847" mt="1551134006000"/>
+        <file name="LABAN1.png" crc="4024466809" mt="1551134006000"/>
+        <file name="Poster.png" crc="224736992" mt="1551134006000"/>
+        <file name="RESTAURANTES1.png" crc="3859527969" mt="1551134006000"/>
+      </folder>
+      <file name="transparent.png" crc="353099104" mt="1551134006000"/>
+      <file name="HOGAR 1_edge.js" crc="463069917" mt="1551134006000"/>
+      <file name="HOGAR 1.html" crc="278191085" mt="1551134006000"/>
+    </folder>
+    <folder name="educacion-1">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1551133588000"/>
+      </folder>
+      <folder name="images">
+        <file name="ALIMENTOS.png" crc="412738421" mt="1551133588000"/>
+        <file name="AUTOS1.png" crc="39601435" mt="1551133588000"/>
+        <file name="BELLEZA1.png" crc="3884993634" mt="1551133588000"/>
+        <file name="boton rojo3.png" crc="315152262" mt="1551133588000"/>
+        <file name="EDUCACION1.png" crc="3918333162" mt="1551133588000"/>
+        <file name="LABAN1.png" crc="4024466809" mt="1551133588000"/>
+        <file name="Poster.png" crc="224736992" mt="1551133588000"/>
+        <file name="RESTAURANTES1.png" crc="3859527969" mt="1551133588000"/>
+      </folder>
+      <file name="transparent.png" crc="353099104" mt="1551133588000"/>
+      <file name="EDUCACION 1_edge.js" crc="242366037" mt="1551133588000"/>
+      <file name="EDUCACION 1.html" crc="3867394308" mt="1551133588000"/>
+    </folder>
+    <folder name="alimentos-1">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1551133311000"/>
+      </folder>
+      <folder name="images">
+        <file name="ALIMENTOS.png" crc="412738421" mt="1551133311000"/>
+        <file name="AUTOS1.png" crc="39601435" mt="1551133311000"/>
+        <file name="BELLEZA1.png" crc="3884993634" mt="1551133311000"/>
+        <file name="boton rojo3.png" crc="315152262" mt="1551133311000"/>
+        <file name="LABAN1.png" crc="4024466809" mt="1551133311000"/>
+        <file name="Poster.png" crc="224736992" mt="1551133311000"/>
+        <file name="RESTAURANTES1.png" crc="3859527969" mt="1551133311000"/>
+      </folder>
+      <file name="transparent.png" crc="353099104" mt="1551133311000"/>
+      <file name="ALIMENTOS 1_edge.js" crc="20040038" mt="1551133311000"/>
+      <file name="ALIMENTOS 1.html" crc="3868427584" mt="1551133311000"/>
+    </folder>
+    <folder name="belleza-1">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1551133101000"/>
+      </folder>
+      <folder name="images">
+        <file name="AUTOS1.png" crc="39601435" mt="1551133101000"/>
+        <file name="BELLEZA1.png" crc="3884993634" mt="1551133101000"/>
+        <file name="boton rojo3.png" crc="315152262" mt="1551133101000"/>
+        <file name="LABAN1.png" crc="4024466809" mt="1551133101000"/>
+        <file name="Poster.png" crc="224736992" mt="1551133101000"/>
+        <file name="RESTAURANTES1.png" crc="3859527969" mt="1551133101000"/>
+      </folder>
+      <file name="transparent.png" crc="353099104" mt="1551133101000"/>
+      <file name="BELLEZA 1_edge.js" crc="404294731" mt="1551133101000"/>
+      <file name="BELLEZA 1.html" crc="371720791" mt="1551133101000"/>
+    </folder>
+    <folder name="ban22">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1551132933000"/>
+      </folder>
+      <folder name="images">
+        <file name="AUTOS1.png" crc="39601435" mt="1551132933000"/>
+        <file name="boton rojo3.png" crc="315152262" mt="1551132933000"/>
+        <file name="LABAN1.png" crc="4024466809" mt="1551132933000"/>
+        <file name="Poster.png" crc="224736992" mt="1551132933000"/>
+        <file name="RESTAURANTES1.png" crc="3859527969" mt="1551132933000"/>
+      </folder>
+      <file name="transparent.png" crc="353099104" mt="1551132933000"/>
+      <file name="ban2_edge.js" crc="3854899965" mt="1551132933000"/>
+      <file name="ban2.html" crc="4228034102" mt="1551132933000"/>
+    </folder>
+    <folder name="ban2">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1551130280000"/>
+      </folder>
+      <folder name="images">
+        <file name="boton rojo3.png" crc="315152262" mt="1551130280000"/>
+        <file name="LABAN1.png" crc="4024466809" mt="1551130280000"/>
+        <file name="Poster.png" crc="224736992" mt="1551130280000"/>
+        <file name="RESTAURANTES1.png" crc="3859527969" mt="1551130280000"/>
+      </folder>
+      <file name="transparent.png" crc="353099104" mt="1551130280000"/>
+      <file name="ban2_edge.js" crc="265787816" mt="1551130280000"/>
+      <file name="ban2.html" crc="4228034102" mt="1551130280000"/>
+    </folder>
+    <folder name="rest4">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1551128838000"/>
+      </folder>
+      <folder name="images">
+        <file name="boton rojo3.png" crc="315152262" mt="1551128838000"/>
+        <file name="Poster.png" crc="224736992" mt="1551128838000"/>
+        <file name="RESTAURANTES1.png" crc="3859527969" mt="1551128838000"/>
+      </folder>
+      <file name="transparent.png" crc="353099104" mt="1551128838000"/>
+      <file name="REST4_edge.js" crc="4078047774" mt="1551128838000"/>
+      <file name="REST4.html" crc="226627162" mt="1551128838000"/>
+    </folder>
+    <folder name="animacion-4">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1551132025000"/>
+      </folder>
+      <folder name="images">
+        <file name="A recortada.png" crc="182965467" mt="1551132025000"/>
+        <file name="A recortada2.png" crc="182965467" mt="1551132025000"/>
+        <file name="boton rojo3.png" crc="315152262" mt="1551132025000"/>
+        <file name="epiga recortada.png" crc="497423044" mt="1551132025000"/>
+        <file name="epiga recortada2.png" crc="497423044" mt="1551132025000"/>
+        <file name="epiga recortada3.png" crc="497423044" mt="1551132025000"/>
+        <file name="letras agricola recortada.png" crc="411807519" mt="1551132025000"/>
+        <file name="letras agricola recortada2.png" crc="411807519" mt="1551132025000"/>
+        <file name="logo trasp.png" crc="4046243943" mt="1551132025000"/>
+        <file name="logo trasp2.png" crc="4046243943" mt="1551132025000"/>
+        <file name="O recortada.png" crc="3948102528" mt="1551132025000"/>
+        <file name="O recortada2.png" crc="3948102528" mt="1551132025000"/>
+      </folder>
+      <file name="transparent.png" crc="4266937238" mt="1551132025000"/>
+      <file name="animacion 4_edge.js" crc="371221973" mt="1551132025000"/>
+      <file name="animacion 4.html" crc="4065734952" mt="1551132025000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:la-banquetera:restaurantes:autos:belleza:alimentos:educacion:salud:hogar:vida-sana:nosotros"/>
+    <file name="museutils.js" crc="4190794036" ref="index:la-banquetera:restaurantes:autos:belleza:alimentos:educacion:salud:hogar:vida-sana:nosotros"/>
+    <file name="whatinput.js" crc="84559013" ref="index:la-banquetera:restaurantes:autos:belleza:alimentos:educacion:salud:hogar:vida-sana:nosotros"/>
+    <file name="pie.js" crc="3827607177" ref="index:la-banquetera:restaurantes:autos:belleza:alimentos:educacion:salud:hogar:vida-sana:nosotros"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:la-banquetera:restaurantes:autos:belleza:alimentos:educacion:salud:hogar:vida-sana:nosotros"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="la-banquetera:restaurantes:educacion:nosotros"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="la-banquetera:restaurantes:autos:belleza:alimentos:educacion:salud:hogar:vida-sana:nosotros"/>
+  </folder>
+  <folder name="images">
+    <file name="az.jpg" crc="3953842996" ref="index:la-banquetera:restaurantes:autos:belleza:alimentos:educacion:salud:hogar:vida-sana:nosotros"/>
+    <file name="encabezado2.jpg" crc="490312608" seo="true" ref="la-banquetera:restaurantes:autos:belleza:alimentos:educacion:salud:hogar:vida-sana:nosotros"/>
+    <file name="boton inicio.jpg" crc="3972229612" ref="la-banquetera"/>
+    <file name="boton inicio-2.jpg" crc="4191726724" ref="la-banquetera"/>
+    <file name="b alim 1.png" crc="4025599296" ref="la-banquetera"/>
+    <file name="b alim 1-2.png" crc="82719648" ref="la-banquetera"/>
+    <file name="seg dem.jpg" crc="4009562860" seo="true" ref="la-banquetera"/>
+    <file name="bot aut 1b.png" crc="4100744162" ref="la-banquetera"/>
+    <file name="bot aut 1b-2.png" crc="217168836" ref="la-banquetera"/>
+    <file name="b ban 1.png" crc="273638795" ref="la-banquetera"/>
+    <file name="b ban 1-2.png" crc="274985818" ref="la-banquetera"/>
+    <file name="b educ 1.png" crc="47203073" ref="la-banquetera"/>
+    <file name="b educ 1-2.png" crc="3938421055" ref="la-banquetera"/>
+    <file name="b hog 1.png" crc="5456519" ref="la-banquetera"/>
+    <file name="b hog 1-2.png" crc="3994816147" ref="la-banquetera"/>
+    <file name="b rest 1.png" crc="4194239824" ref="la-banquetera"/>
+    <file name="b rest 1-2.png" crc="3875709689" ref="la-banquetera"/>
+    <file name="b salud 1.png" crc="125480406" ref="la-banquetera"/>
+    <file name="b salud 1-2.png" crc="3877090740" ref="la-banquetera"/>
+    <file name="bot bellz 1.png" crc="313133668" ref="la-banquetera"/>
+    <file name="bot bellz 1-2.png" crc="4289022811" ref="la-banquetera"/>
+    <file name="el mixtequito texto c direccion.png" crc="3922616236" seo="true" ref="la-banquetera"/>
+    <file name="b vid 2.png" crc="30875090" ref="la-banquetera"/>
+    <file name="b vid 2-2.png" crc="162449194" ref="la-banquetera"/>
+    <file name="bot ubi 4.jpg" crc="4125629591" ref="la-banquetera:restaurantes:educacion:nosotros"/>
+    <file name="bot ubi 4-2.jpg" crc="4051718616" ref="la-banquetera:restaurantes:educacion:nosotros"/>
+    <file name="banner 1 el porton.jpg" crc="4179727600" seo="true" ref="restaurantes"/>
+    <file name="el porton texto app.png" crc="4173202296" seo="true" ref="restaurantes"/>
+    <file name="llamontmarc.jpg" crc="3848335802" seo="true" ref="restaurantes"/>
+    <file name="texto la mont1.png" crc="3842406099" seo="true" ref="restaurantes"/>
+    <file name="surtidora app.png" crc="472930269" seo="true" ref="educacion"/>
+    <file name="la surtidora app.png" crc="454496057" seo="true" ref="educacion"/>
+    <file name="boton_logo_ywd.png" crc="37199905" ref="nosotros"/>
+    <file name="boton_logo_ywd-2.png" crc="3903263209" ref="nosotros"/>
+    <file name="yuenwebdesign app3.png" crc="4154292075" seo="true" ref="nosotros"/>
+  </folder>
+  <file name="index.html" crc="3917610037" seo="true" mt="1551194282069" redirect="true"/>
+  <file name="la-banquetera.html" crc="211800352" seo="true" mt="1551299635133" redirect="true"/>
+  <file name="restaurantes.html" crc="4011879108" seo="true" mt="1551315207543" redirect="true"/>
+  <file name="autos.html" crc="496470292" seo="true" mt="1551299635133" redirect="true"/>
+  <file name="belleza.html" crc="4150127700" seo="true" mt="1551299635133" redirect="true"/>
+  <file name="alimentos.html" crc="463797563" seo="true" mt="1551299635133" redirect="true"/>
+  <file name="educacion.html" crc="91423460" seo="true" mt="1551299750528" redirect="true"/>
+  <file name="salud.html" crc="4268694195" seo="true" mt="1551299635133" redirect="true"/>
+  <file name="hogar.html" crc="3915329020" seo="true" mt="1551299635133" redirect="true"/>
+  <file name="vida-sana.html" crc="4029171542" seo="true" mt="1551299635133" redirect="true"/>
+  <file name="nosotros.html" crc="4073758280" seo="true" mt="1551299635133" redirect="true"/>
+</manifest>
